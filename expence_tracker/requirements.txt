@@ -1,0 +1,14 @@
+django
+djangorestframework
+drf-yasg
+django-cors-headers
+django-filter
+djangorestframework-simplejwt
+psycopg2-binary
+Pillow
+python-dotenv
+setuptools
+openai
+groq
+python-dateutil
+gunicorn
